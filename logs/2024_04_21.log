@@ -1,0 +1,57 @@
+2024-04-21 00:20:42,009 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-04-21 00:20:42,009 - INFO - --> Received scan signal from PLC
+2024-04-21 00:20:42,010 - INFO - --> ------ SCAN SIGNAL -------
+2024-04-21 00:20:45,398 - INFO - --> RESULT SCAN
+2024-04-21 00:20:45,399 - ERROR - FAILED
+2024-04-21 00:20:45,449 - ERROR - ------FAIL SCAN-------
+2024-04-21 00:20:45,449 - ERROR - Data SN: J49MK2D926K0
+2024-04-21 00:20:45,450 - ERROR - Data FIXTURE: None
+2024-04-21 00:20:45,453 - INFO - use 3.442310094833374 to process
+2024-04-21 00:21:00,470 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-04-21 00:21:00,471 - INFO - --> Received scan signal from PLC
+2024-04-21 00:21:00,471 - INFO - --> ------ SCAN SIGNAL -------
+2024-04-21 00:21:03,777 - INFO - --> RESULT SCAN
+2024-04-21 00:21:03,777 - ERROR - FAILED
+2024-04-21 00:21:03,813 - ERROR - ------FAIL SCAN-------
+2024-04-21 00:21:03,813 - ERROR - Data SN: J49MK2D926K0
+2024-04-21 00:21:03,813 - ERROR - Data FIXTURE: None
+2024-04-21 00:21:03,815 - INFO - use 3.3429460525512695 to process
+2024-04-21 00:23:05,946 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-04-21 00:23:05,947 - INFO - --> Received scan signal from PLC
+2024-04-21 00:23:05,947 - INFO - --> ------ SCAN SIGNAL -------
+2024-04-21 00:23:06,943 - INFO - --> RESULT SCAN
+2024-04-21 00:23:06,944 - INFO - PASS SCAN
+2024-04-21 00:23:06,947 - INFO - ----------- SEND TO MES -----------
+2024-04-21 00:23:07,402 - INFO - --> Send Data SN:  J49MK2JZ26K0
+2024-04-21 00:23:09,104 - INFO - use 3.156419277191162 to process
+2024-04-21 00:24:48,449 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-04-21 00:24:48,449 - INFO - --> Received scan signal from PLC
+2024-04-21 00:24:48,450 - INFO - --> ------ SCAN SIGNAL -------
+2024-04-21 00:24:48,765 - INFO - --> RESULT SCAN
+2024-04-21 00:24:48,768 - INFO - PASS SCAN
+2024-04-21 00:24:48,772 - INFO - ----------- SEND TO MES -----------
+2024-04-21 00:24:48,985 - INFO - --> Send Data SN:  J49MK21V26K0
+2024-04-21 00:24:50,674 - INFO - use 2.2223243713378906 to process
+2024-04-21 00:27:37,771 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-04-21 00:27:37,771 - INFO - --> Received scan signal from PLC
+2024-04-21 00:27:37,771 - INFO - --> ------ SCAN SIGNAL -------
+2024-04-21 00:27:38,840 - INFO - --> RESULT SCAN
+2024-04-21 00:27:38,840 - INFO - PASS SCAN
+2024-04-21 00:27:38,841 - INFO - ----------- SEND TO MES -----------
+2024-04-21 00:27:39,319 - INFO - --> Send Data SN:  J49MK2D626K0
+2024-04-21 00:27:40,988 - INFO - use 3.2165985107421875 to process
+2024-04-21 00:56:02,480 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-04-21 00:56:02,480 - INFO - --> Received scan signal from PLC
+2024-04-21 00:56:02,481 - INFO - --> ------ SCAN SIGNAL -------
+2024-04-21 00:56:05,103 - INFO - --> RESULT SCAN
+2024-04-21 00:56:05,104 - ERROR - FAILED
+2024-04-21 00:56:05,143 - ERROR - ------FAIL SCAN-------
+2024-04-21 00:56:05,143 - ERROR - Data SN: J45MKYBE26K0
+2024-04-21 00:56:05,144 - ERROR - Data FIXTURE: None
+2024-04-21 00:56:05,146 - INFO - use 2.665355920791626 to process
